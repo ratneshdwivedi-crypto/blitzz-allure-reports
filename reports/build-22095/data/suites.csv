@@ -1,0 +1,13 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Dec 18 06:42:32 UTC 2025","Thu Dec 18 06:42:58 UTC 2025","26033","tests","test_login","","","","test_login[wrong_user@example.com-Test@1234567#-False]","
+    Test login functionality with valid and invalid credentials.
+    "
+"passed","Thu Dec 18 06:43:37 UTC 2025","Thu Dec 18 06:44:02 UTC 2025","25060","tests","test_login","","","","test_login[wrong_user@example.com-wrong_password-False]","
+    Test login functionality with valid and invalid credentials.
+    "
+"passed","Thu Dec 18 06:43:03 UTC 2025","Thu Dec 18 06:43:32 UTC 2025","29143","tests","test_login","","","","test_login[Sumit+33@blitzz.co-wrong_password-False]","
+    Test login functionality with valid and invalid credentials.
+    "
+"passed","Thu Dec 18 06:42:11 UTC 2025","Thu Dec 18 06:42:27 UTC 2025","16025","tests","test_login","","","","test_login[Sumit+33@blitzz.co-Test@1234567#-True]","
+    Test login functionality with valid and invalid credentials.
+    "
